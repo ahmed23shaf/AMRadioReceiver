@@ -26,5 +26,3 @@ The specific filter implements a type of IF (intermediate frequency) filter whic
 ![image](https://github.com/ahmed23shaf/AMRadioReceiver/assets/112600024/fafdfb3c-7e9e-43a2-bead-482e72d33614)
 
 
-![image](https://github.com/ahmed23shaf/AMRadioReceiver/assets/112600024/fec349eb-c9c9-48e0-9cec-32573c98696f)
-
